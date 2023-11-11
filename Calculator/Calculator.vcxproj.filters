@@ -29,5 +29,8 @@
     <ClInclude Include="add_sub.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="mul_div.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
