@@ -24,6 +24,9 @@
     <ClCompile Include="add_sub.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="percent.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add_sub.h">
